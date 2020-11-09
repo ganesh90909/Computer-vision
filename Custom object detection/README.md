@@ -4,4 +4,4 @@ for training the neural network to obtain weights. You can find the images zip f
 
 
 
-<img src='images/Screenshot 2020-11-09 at 12.41.53 PM.png'
+<img src='images/Screenshot 2020-11-09 at 12.41.53 PM.png' />
