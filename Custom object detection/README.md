@@ -1,6 +1,5 @@
 
-This model detects custom object (rose flower) in an image or video, built using YOLOv3 and Opencv in Pycharm IDE. A set of around 160 images are used in this model
-for training the neural network to obtain weights. You can find the images zip folder and the pre-trained weights for the model <a href='https://drive.google.com/drive/folders/1XkKcsguFQ6qwgggkPtDNcOFGsZ6x29ON?usp=sharing'>here</a>
+This model detects a custom object (rose flower) in an image or a video using custom trained YOLOv3 weights and Opencv in Pycharm IDE. A set of around 160 images which are labelled using LabelImg are used in this model for training the neural network to obtain weights. The number of classes used are only 1 (rose), although we can choose the number of classes of objects of our choice to be detected.  You can find the images zip folder and the pre-trained weights for the model <a href='https://drive.google.com/drive/folders/1XkKcsguFQ6qwgggkPtDNcOFGsZ6x29ON?usp=sharing'>here</a>
 
 
 
